@@ -1,0 +1,9 @@
+.animate .block-right {
+  transform: translateX(200px);
+  opacity: 0;
+}
+
+.animate .block-left {
+  transform: translateX(-200px);
+  opacity: 0;
+}
