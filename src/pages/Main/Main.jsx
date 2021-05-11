@@ -4,6 +4,7 @@ import './style.css';
 import { PageAnimated } from '../../components'
 
 export const Main = () => {
+ 
     return (
         <PageAnimated>
             <div className="main">

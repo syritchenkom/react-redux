@@ -28,6 +28,7 @@ export const Navbar = () => {
             <a className="navbar-link" href="#" onClick={handleClickLink(paths.main)}>Головна</a>
             <a className="navbar-link" href="#" onClick={handleClickLink(paths.about)}>Про нас</a>
             <a className="navbar-link" href="#" onClick={handleClickLink(paths.settings)}>Настройки</a>
+            <a className="navbar-link" href="#" onClick={handleClickLink(paths.dataList)}>Дані</a>
         </div>
     )
 }
